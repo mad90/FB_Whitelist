@@ -53,6 +53,7 @@ scontent-arn2-1.xx.fbcdn.net
 cdn.fbsbx.com
 graph.facebook.com
 lm.facebook.com
+scontent.fmuc4-1.fna.fbcdn.net
 #
 ##############################################################
 # User submitted below:
